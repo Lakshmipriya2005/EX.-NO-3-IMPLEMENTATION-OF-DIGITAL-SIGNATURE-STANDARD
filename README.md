@@ -1,4 +1,3 @@
-![image](https://github.com/user-attachments/assets/fe818e54-ff3d-426f-8684-a1aa7e265e93)# EX.-NO-3-IMPLEMENTATION-OF-DIGITAL-SIGNATURE-STANDARD
 
 ## AIM:
 To write a C program to implement the signature scheme named digital signature
