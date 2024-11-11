@@ -1,4 +1,4 @@
-### Ex no 8 IMPLEMENTATION OF DIGITAL SIGNATURE STANDARD
+## Ex no 8 IMPLEMENTATION OF DIGITAL SIGNATURE STANDARD
 ## AIM:
 To write a C program to implement the signature scheme named digital signature
 standard (Euclidean Algorithm).
